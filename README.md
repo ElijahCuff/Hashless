@@ -19,7 +19,7 @@ I made this POC to highlight something i just kind of imagined after reading how
 - Kind Regards, Woke.      
     
 
-![screen](IMG_20200616_120406.jpg)      
+![screen](IMG_20200925_175123.jpg)      
     
 
 ## Technology   
