@@ -3,7 +3,7 @@ Hashless was designed by an independent security researcher from Australia, hell
 
 ## What is Hashless ?
 * Hashless was originally designed as a File Binding solution for PHP, however that soon changed to fit my interest in how specific virus software handles virus detection.    
-* This pho script was specifically designed to test the effectiveness of Hash Masking a virus and testing through the Virus Total website.
+* This php script was specifically designed to test the effectiveness of Hash Masking a virus and testing through the Virus Total website.
 
 ## How does it work ?
 * First the user uploads a known file like a TEST virus file
