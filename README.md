@@ -21,6 +21,8 @@ I made this POC to highlight something i just kind of imagined after reading how
 
 ![screen](IMG_20200925_175123.jpg)      
     
+Test file used for VirusTotal report - by https://www.eicar.org/?page_id=3950
+This test file was extracted and the payload was used as the target file.
 
 ## Technology   
 * PHP   
