@@ -33,6 +33,6 @@ I made this POC to highlight something i just kind of imagined after reading how
 ## Development Notes    
 * I'm not sure if "Hash Masking" is a real thing, i just made that word up because it fitted.
 
-### Test the Application in a Pre-built APK
-[![demo button](https://i.imgur.com/3Ugm8J7.jpg)](https://github.com/WokeWorld/Invisidroid/blob/master/Invisidroid.apk?raw=true) 
+### Test A Pre-built Website with Bootstrap Theme
+[![demo button](https://i.imgur.com/3Ugm8J7.jpg)](https://criminal.ml/webapp/hashless) 
 
